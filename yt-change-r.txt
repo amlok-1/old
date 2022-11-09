@@ -1,0 +1,4 @@
+Версия 13. Изменения:
+
+>Fixed Downloading
+
